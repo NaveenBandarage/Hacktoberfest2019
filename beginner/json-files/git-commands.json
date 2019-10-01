@@ -59,4 +59,12 @@
     "title": "git cherry-pick ",
     "description": "This command allows you to apply the changes introduced by some existing commits. When given one or more existing commits, apply the change each one introduces, recording a new commit for each."
   }
+  {
+   "title": "git rm",
+   "description": "This command deletes the file from your working directory and stages the deletion."
+  }
+   {
+   "title": "git send-email",
+   "description": "This command sends a collection of patches as emails."
+  }
 ]
